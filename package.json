@@ -1,0 +1,19 @@
+{
+  "name": "whitepaper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "./build.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NEARton/WhitePaper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NEARton/WhitePaper/issues"
+  },
+  "homepage": "https://github.com/NEARton/WhitePaper#readme"
+}
