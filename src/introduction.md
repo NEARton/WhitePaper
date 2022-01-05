@@ -21,7 +21,7 @@ Our main goal is to connect strong NFT communties on [NEAR](https://near.org/) a
 
 NEARton is the project for the ecosystem, we believe in this way we can attract more NFT collectors from other chains and make rarity sniping fun again.
 
-And of course NEARton NFT is a fun way to flex your NFTs.
+And of course NEARton is a fun way to flex your NFTs.
 
 ![image](./img/nearton-cover.png)
 

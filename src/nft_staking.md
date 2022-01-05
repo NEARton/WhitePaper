@@ -10,9 +10,9 @@ In short, you stake your NFTs by locking them in the Smart Contract Vault and th
 
 __Important:__
 
-* We don't control your NFTs. You can ustake them in any time.
+* We don't control your NFTs. You can unstake them at any time
 
-* Not every NFT will be eligible for staking. Initially, you can stake only NEARton NFTs, but we're going to connect with trusted collections to create the pool. It's up to comminty deside which one should be in the pool.
+* Not every NFT will be eligible for staking. Initially, you can stake only NEARton NFTs, but we're going to connect with trusted collections to create the pool. It's up to the community to decide which one should be in the pool.
 
 ## The Staking Rate
 
