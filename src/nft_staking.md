@@ -1,6 +1,6 @@
 # NFT Staking
 
-You are probably already familiar with the staking concept from DeFi sector or know about the Proof of stake consensus mechanism, but what the heck is __"NFT Staking"__?
+You are probably already familiar with the staking concept from the DeFi sector or know about the Proof of stake consensus mechanism, but what the heck is __"NFT Staking"__?
 
 Let's dive into that.
 
@@ -22,7 +22,7 @@ __The Staking Rate__ is the most interesting and tricky thing because its value 
 
 Each home has a base Staking Rate (__bSR__)
 
-__bSR__ calculated based on house district and rarity attributes.
+__bSR__ is calculated based on house district and rarity attributes.
 
 __bSR__ is static. You will know it after the mint.
 
@@ -43,7 +43,7 @@ To clarify the process, take a look at the picture below.
 
 ## Summary
 
-In short, the more NFTs you stake, the more [$NEXP](./the_NEXP_token.md) you get. We give a bonus for staking more than one NFT for the same collection.
+In short, the more NFTs you stake, the more [$NEXP](./the_NEXP_token.md) you get. We give a bonus for staking more than one NFT from the same collection.
 
-Rewards are earned per day (24h cycle) and you can claim them in any time.
+You earn rewards per day (24h cycle) and can claim them anytime.
 

@@ -1,19 +1,20 @@
 # The $NEXP token
-$NEXP ( **N**EAR e**X**perience **P**oints) is the utility and loyalty token dedicated for NFT enthusiasts on [NEAR Protocol](https://near.org/).
+$NEXP ( **N**EAR e**X**perience **P**oints) is the utility and loyalty token dedicated to NFT enthusiasts on [NEAR Protocol](https://near.org/).
 
 The main purpose of the __$NEXP__ token is to reward early NFT adopters on [NEAR](https://near.org/) and add additional utility for our NFTs & others collections.
 
 __But what about utility?__
 
 * Ability to buy NEARton NFTs via __$NEXP__
-* NEARton will create the ecosystem around it so you can spend __$NEXP__ inside the town.
-* Partnership with upcoming NFT collections to buy some part of supply via __$NEXP__
+* NEARton will create the ecosystem around it so both residents and guests will be
+able to spend __$NEXP__ inside the town.
+* Partnerships with NFT collections will let people buy some part of supply via __$NEXP__
 
 __Loyalty aspect:__
 
-Think about __$NEXP__ not only as "money", it's like __XP__ in RPG. The more good NFTs you collect, the more __$NEXP__ you will get.
+Think about __$NEXP__ not only as "money", it's like __XP__ in RPG. The more good NFTs you collect, the more __$NEXP__ you get.
 
-__$NEXP__  is the opportunity for the devs to engage their holders in long term and give another reason to HODL their NFTs.
+__$NEXP__  is the opportunity for the devs to engage their holders in the long term and give another reason to HODL their NFTs.
 
 
 
