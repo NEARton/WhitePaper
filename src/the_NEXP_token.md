@@ -28,11 +28,14 @@ __Total Supply - 100,000,000__
 
 
 
-| Purpose              | % of Total Supply | Number of Tokens |
-|----------------------|-------------------|------------------|
-| Team                 | 15%               | 15,000,000       |
-| Marketing & Airdrops | 10%               | 10,000,000       |
-| Liquidity pools      | 5%                | 5,000,000        |
-| VCs & Advisors       | 10%               | 15,000,000       |
-| Public Sale          | 10%               | 10,000,000       |
-| Staking Rewards      | 50%               | 50,000,000       |
+| Purpose              | % of Total Supply | Number of Tokens | Circulation                      |
+|----------------------|-------------------|------------------|----------------------------------|
+| Team                 | 15%               | 15,000,000       | 6-month vesting period           |
+| Marketing & Airdrops | 1%                | 1,000,000        | Initial Circulation              |
+| Liquidity pools      | 4%                | 4,000,000        | Initial Circulation              |
+| VCs & Advisors       | 15%               | 15,000,000       | 6-month vesting period           |
+| Public Sale          | 15%               | 15,000,000       | Initial Circulation              |
+| Staking Rewards      | 50%               | 50,000,000       | 18-month distribution period     |
+
+
+__Total Initial Circulation - 20,000,000 (20%)__
