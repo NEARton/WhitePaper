@@ -30,7 +30,7 @@ __Total Supply - 100,000,000__
 
 | Purpose              | % of Total Supply | Number of Tokens | Circulation                      |
 |----------------------|-------------------|------------------|----------------------------------|
-| Team                 | 15%               | 15,000,000       | 6-month vesting period           |
+| Team                 | 15%               | 15,000,000       | 12-month vesting period           |
 | Marketing & Airdrops | 1%                | 1,000,000        | Initial Circulation              |
 | Liquidity pools      | 4%                | 4,000,000        | Initial Circulation              |
 | VCs & Advisors       | 15%               | 15,000,000       | 6-month vesting period           |
