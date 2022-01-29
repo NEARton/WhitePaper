@@ -23,5 +23,5 @@ NEARton is the project for the ecosystem, and we believe it can attract more NFT
 
 And, of course, NEARton is a fun way to flex your NFTs.
 
-![image](./img/nearton-cover.png)
+![image](./img/cover.png)
 
